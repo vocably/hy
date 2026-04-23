@@ -1,0 +1,5 @@
+side
+direction
+part
+supporter
+environment

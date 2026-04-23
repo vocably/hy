@@ -1,0 +1,6 @@
+point
+dot
+spot
+period
+whale
+full stop
